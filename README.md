@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div style="font-size:50px">Hi there 👋 </div>
 
 <!--
 **c4tbrilliantthoughts/c4tbrilliantthoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
