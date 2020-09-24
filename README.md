@@ -4,11 +4,13 @@
 
 I'm very passionate about new technologies 😎
 
-🔭 I’m currently working on something cool 😉
-🌱 I’m currently learning React, Vue, Svelte, AI, ML 💻
-💬 Ask me about anything related to Technical/Technology/Gadgets 📱
-📫 How to reach me: @sumanthsanathi
-🌍 Get know about latest trend technical and technology from here BLOG
-📕 Latest Blog Posts
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning React, Vue, Svelte, AI, ML 💻
+- 💬 Ask me about anything related to Technical/Technology/Gadgets 📱
+- 📫 How to reach me: [@sumanthsanathi](https://twitter.com/sumanthc4t)
+- 🌍 Get know about latest trend technical and technology from here [BLOG](https://c4tbrilliantthoughts.com/blog)
 
-AI ML
+
+📕 **Latest Blog Posts**
+ - [AI ML](https://c4tbrilliantthoughts.com/blog)
+
