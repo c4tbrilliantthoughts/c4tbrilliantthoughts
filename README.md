@@ -1,16 +1,14 @@
-### <div style="font-size:50px">Hi there 👋 </div>
+![](banner.png)
 
-**c4tbrilliantthoughts/c4tbrilliantthoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Here are some ideas to get you started:
+I'm very passionate about new technologies 😎
 
-- 🔭 I’m currently working on ... Full Stack
-- 🌱 I’m currently learning ... React Vue Svelt and more...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on something cool 😉
+🌱 I’m currently learning React, Vue, Svelte, AI, ML 💻
+💬 Ask me about anything related to Technical/Technology/Gadgets 📱
+📫 How to reach me: @sumanthsanathi
+🌍 Get know about latest trend technical and technology from here BLOG
+📕 Latest Blog Posts
 
-![alt text](test.svg)
+AI ML
