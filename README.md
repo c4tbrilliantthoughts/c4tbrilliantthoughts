@@ -75,7 +75,7 @@ Want to know more about me? [Check out my portfolio.](https://c4tbrilliantthough
 </details>
 
 <br>
-
+<a href="https://app.daily.dev/SumanthSanathi"><img src="https://api.daily.dev/devcards/25654506d62a4ad39329c6e7c39b0fc8.png?r=sb6" width="400" alt="sumanth's Dev Card"/></a>
 
 
 ## 📈 GitHub Stats
